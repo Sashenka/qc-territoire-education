@@ -1,0 +1,69 @@
+{
+    "fichiers":[
+        {
+            "filename": "cs_ang_sda.geojson",
+            "url":"https://www.donneesquebec.ca/recherche/dataset/37d944eb-335b-40fe-8d80-835ff77bc5cb/resource/17ce5f5a-c6b1-454b-bedb-97d29be31943/download/cs_ang_sda.geojson"
+
+        },
+        {
+            "filename": "cs_ang.geojson",
+            "url":"https://www.donneesquebec.ca/recherche/dataset/37d944eb-335b-40fe-8d80-835ff77bc5cb/resource/6d05e59f-cbe4-41a0-9587-ba1faa9a1a2f/download/cs_ang.geojson"
+
+        },
+        {
+            "filename": "cs_fra_sda.geojson",
+            "url":"https://www.donneesquebec.ca/recherche/dataset/37d944eb-335b-40fe-8d80-835ff77bc5cb/resource/4cd70cc8-2663-4f10-bfce-bb46f62a77da/download/cs_fra_sda.geojson"
+
+        },
+        {
+            "filename": "cs_fra.geojson",
+            "url":"https://www.donneesquebec.ca/recherche/dataset/37d944eb-335b-40fe-8d80-835ff77bc5cb/resource/ce0b211c-1b9c-47ef-8a31-e04fdc93388e/download/cs_fra.geojson"
+
+        },
+        {
+            "filename": "cs_sta_sda.geojson",
+            "url":"https://www.donneesquebec.ca/recherche/dataset/37d944eb-335b-40fe-8d80-835ff77bc5cb/resource/957145e9-2759-4951-91d4-3cc3bc06749f/download/cs_sta_sda.geojson"
+
+        },
+        {
+            "filename": "cs_sta.geojson",
+            "url":"https://www.donneesquebec.ca/recherche/dataset/37d944eb-335b-40fe-8d80-835ff77bc5cb/resource/590046fb-dcea-43f3-ba23-43d81d30e8c2/download/cs_sta.geojson"
+
+        },
+        {
+            "filename": "es_collegial.geojson",
+            "url":"https://www.donneesquebec.ca/recherche/dataset/2d3b5cf8-b347-49c7-ad3b-bd6a9c15e443/resource/fc806a50-7e84-4f39-acae-69069e4784bf/download/es_collegial.geojson"
+
+        },
+        {
+            "filename": "es_universitaire.geojson",
+            "url":"https://www.donneesquebec.ca/recherche/dataset/2d3b5cf8-b347-49c7-ad3b-bd6a9c15e443/resource/f93b5275-9708-4de2-aea3-38273753694d/download/es_universitaire.geojson"
+
+        },
+        {
+            "filename": "pps_gouvernemental.geojson",
+            "url":"https://www.donneesquebec.ca/recherche/dataset/2d3b5cf8-b347-49c7-ad3b-bd6a9c15e443/resource/819dd537-484d-455f-85dd-af2c9cb5777d/download/pps_gouvernemental.geojson"
+
+        },
+        {
+            "filename": "pps_prive_etablissement.geojson",
+            "url":"https://www.donneesquebec.ca/recherche/dataset/2d3b5cf8-b347-49c7-ad3b-bd6a9c15e443/resource/9726e4e8-b8c0-48d2-9eb5-9317bcf06f99/download/pps_prive_etablissement.geojson"
+
+        },
+        {
+            "filename": "pps_prive_installation.geojson",
+            "url":"https://www.donneesquebec.ca/recherche/dataset/2d3b5cf8-b347-49c7-ad3b-bd6a9c15e443/resource/365bd2f1-b5ac-42b6-a41a-1e01e198ab69/download/pps_prive_installation.geojson"
+
+        },
+        {
+            "filename": "pps_public_ecole.geojson",
+            "url":"https://www.donneesquebec.ca/recherche/dataset/2d3b5cf8-b347-49c7-ad3b-bd6a9c15e443/resource/9d7ad61f-be5c-4ebf-9433-f8168fabc8ed/download/pps_public_ecole.geojson"
+
+        },
+        {
+            "filename": "pps_public_immeuble.geojson",
+            "url":"https://www.donneesquebec.ca/recherche/dataset/2d3b5cf8-b347-49c7-ad3b-bd6a9c15e443/resource/f6fa5c86-e330-44bc-a5f4-2d6c8a1ae000/download/pps_public_immeuble.geojson"
+
+        }
+    ]
+}
